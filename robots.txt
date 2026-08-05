@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://scope.top-yeoksam-club.xyz/sitemap.xml
+Sitemap: https://scope.top-yeoksam-club.xyz/sitemap-pages.xml
